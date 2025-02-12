@@ -19,16 +19,15 @@ Abans de començar, assegura't que tens les següents eines instal·lades:
    Clona aquest repositori al teu sistema:
 
    git clone https://github.com/usuari/nombre-proyecto.git  
-   cd nombre-proyecto
+   cd nomb-carpeta
 
 2. **Instal·lar les dependències:**
 
-   Instala les dependències de PHP i npm:
+   Instala les dependències de PHP:
 
-   composer install  
-   npm install
-
-3. **Configuració de la base de dades:**
+   composer install
+   
+4. **Configuració de la base de dades:**
 
    - Renombra el fitxer `.env.example` a `.env`:
      cp .env.example .env
@@ -39,7 +38,7 @@ Abans de començar, assegura't que tens les següents eines instal·lades:
 
    Si utilitzes **MySQL** o **PostgreSQL**, ajusta les configuracions de connexió en el fitxer `.env`.
 
-4. **Generar la clau d'aplicació:**
+5. **Generar la clau d'aplicació:**
 
    Executa la següent comanda per generar una clau única per a l'aplicació:
 
@@ -63,13 +62,6 @@ Abans de començar, assegura't que tens les següents eines instal·lades:
 
 ---
 
-## Captura de pantalla del resultat
-
-![image](https://github.com/user-attachments/assets/8282c41d-ac2a-457b-a7d8-173e10bbc3e4)
-
-
----
-
 ## Com executar l'aplicació
 
 Per executar l'aplicació localment, utilitza el servidor integrat de Laravel:
@@ -80,10 +72,7 @@ L'aplicació estarà disponible a la següent adreça: [http://127.0.0.1:8000](h
 
 ---
 
-## Recursos
+## Captura de pantalla del resultat
 
-- [Laravel Documentation](https://laravel.com/docs)
-- [Composer Documentation](https://getcomposer.org/doc/)
-- [PHP Documentation](https://www.php.net/docs.php)
+![image](https://github.com/user-attachments/assets/8282c41d-ac2a-457b-a7d8-173e10bbc3e4)
 
----
