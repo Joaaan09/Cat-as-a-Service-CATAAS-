@@ -65,9 +65,8 @@ Abans de començar, assegura't que tens les següents eines instal·lades:
 
 ## Captura de pantalla del resultat
 
-A continuació, es mostra una captura de pantalla de l'aplicació després d'executar les migracions i seeders. Aquesta captura mostra les dades que han estat insertades correctament a la base de dades.
+![image](https://github.com/user-attachments/assets/8282c41d-ac2a-457b-a7d8-173e10bbc3e4)
 
-![Captura de pantalla de l'aplicació](ruta/a/la/captura.png)
 
 ---
 
@@ -88,5 +87,3 @@ L'aplicació estarà disponible a la següent adreça: [http://127.0.0.1:8000](h
 - [PHP Documentation](https://www.php.net/docs.php)
 
 ---
-
-Con este formato todo está en texto plano, sin ninguna caja de código. Puedes copiar y pegar directamente en tu archivo `README.md`.
